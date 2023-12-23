@@ -10,7 +10,6 @@ import Segunda from './Pages/Segunda';
 const App = () => {
   return (
     <Router>
-      teste
       <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/Pages" element={<Segunda />} />
