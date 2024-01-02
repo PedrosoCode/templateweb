@@ -7,6 +7,7 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './Pages/Home';
 import Segunda from './Pages/Segunda';
+import MainCarousel from './Components/MainCarousel';
 
 const App = () => {
   return (
